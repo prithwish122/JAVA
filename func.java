@@ -22,7 +22,7 @@ public class func{
         res=calc.add(a,b);
         System.out.println("The sum of the two numbers is :"+res);
 
-
+    
     }
     
 }
