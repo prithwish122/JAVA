@@ -6,7 +6,7 @@ class calculator{
         result = num1+num2;
         return result;
     }
-}
+}   
 
 
 public class func{
